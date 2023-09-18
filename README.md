@@ -1,32 +1,35 @@
-﻿# Centro Universitário
-## Apresentação de protótipo e modelagem para desenvolvimento de um projeto voltado a gestão de dados de um centro universitário.
+﻿# Projeto Centro Universitário
+ 
+## Diagrama de Classes (UML) voltado a gestão de dados de um centro universitário.
 Abaixo segue o diagrama de classe UML que servirá de base para desenvolvimento do sistema.
+![DiagramaClasse](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/DiagramaClasse.jpg)
 
 Elaboração: Igor Eloi Dias Branco.
 
 
-![DiagramaClasse](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/DiagramaClasse.jpg)
-
-## Apresentação de protótipo e modelagem relacionado à pessoa física: alunos e professores.
-
+## Modelagem relacionado à pessoa física: alunos e professores.
 Abaixo, segue o protótipo do aplicativo para acesso de professores e alunos.
+![Representação Pessoa Física](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/tela-pessoa-fisica-aluno-professor.jpg)
 
 Elaboração: Alexandre Nobuyuki Yamaya.
 
-![Representação Pessoa Física](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/Copy%20of%20Prototype%20Template%20(5).pdf)
 
-## Apresentação de protótipo e modelagem relacionado ao aplicativo da Universidade.
-
+## Modelagem relacionado ao aplicativo da Universidade.
 Abaixo, segue o protótipo do aplicativo para acesso e interações relacionadas à universidade.
+![Representação Universidade](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/tela-universidade.jpg)
 
 Elaboração: Alexandre Nobuyuki Yamaya.
 
-![Representação Universidade](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/Prototype%20Template%20(2).pdf)
 
-## Apresentação de protótipo e modelagem relacionado ao aplicativo da Universidade.
-
-Abaixo, segue o protótipo do aplicativo para acesso e interações relacionadas à universidade, Fornecedor
+## Modelagem das telas de acesso do fornecedor.
+Abaixo, segue o protótipo do aplicativo para acesso e interações relacionadas aos fornecedores
+![Representação Fornecedor](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/tela-pessoa-juridica-fornecedor.jpg)
 
 Elaboração:Alan Campos da Silva
 
-![Representação Fornecedor](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/fornecedor.pdf)
+
+## Modelagem relacionada as telas de cadastros
+Abaixo, segue o protótipo do aplicativo incluindo as telas de cadastro/alterações de alunos, professores e fornecedores
+![Representação Tela Cadastro](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/tela-cadastros.jpg)
+
+Elaboração: Charles Anderson Silva de Amorim e Gabriel da Cruz Ribeiro Lopes
