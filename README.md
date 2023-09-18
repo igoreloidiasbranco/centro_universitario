@@ -7,6 +7,12 @@ Elaboração: Igor Eloi Dias Branco.
 
 ![DiagramaClasse](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/DiagramaClasse.jpg)
 
+### Apresentação de protótipo e modelagem relacionado à pessoa física: alunos e professores.
+
+Segue o protótipo para aplicativo.
+
+Elaboração: Alexandre Nobuyuki Yamaya.
+
 ![Representação Pessoa Física](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/Copy%20of%20Prototype%20Template%20(5).PDF)
 
 ![Representação Universidade](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/Prototype%20Template%20(2).PDF)
