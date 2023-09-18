@@ -13,7 +13,7 @@ Abaixo, segue o protótipo do aplicativo para acesso de professores e alunos.
 
 Elaboração: Alexandre Nobuyuki Yamaya.
 
-![Representação Pessoa Física](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/Copy%20of%20Prototype%20Template%20(5).jpg)
+![Representação Pessoa Física](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/Copy%20of%20Prototype%20Template%20(5).PDF)
 
 ## Apresentação de protótipo e modelagem relacionado ao aplicativo da Universidade.
 
