@@ -29,4 +29,4 @@ Abaixo, segue o protótipo do aplicativo para acesso e interações relacionadas
 
 Elaboração:Alan Campos da Silva
 
-![Representação Fornecedor](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/Copy%20of%20Prototype%20Template%20(5).pdf)
+![Representação Fornecedor](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/fornecedor.pdf)
