@@ -9,7 +9,7 @@ Elaboração: Igor Eloi Dias Branco.
 
 ## Apresentação de protótipo e modelagem relacionado à pessoa física: alunos e professores.
 
-Segue o protótipo para o aplicativo.
+Abaixo, segue o protótipo para o aplicativo para acesso de professores e alunos.
 
 Elaboração: Alexandre Nobuyuki Yamaya.
 
@@ -17,7 +17,7 @@ Elaboração: Alexandre Nobuyuki Yamaya.
 
 ## Apresentação de protótipo e modelagem relacionado ao aplicativo da Universidade.
 
-Segue o protótipo para o aplicativo. 
+Abaixo, segue o protótipo para acesso ao aplicativo para interações relacionadas à universidade.
 
 Elaboração: Alexandre Nobuyuki Yamaya.
 
