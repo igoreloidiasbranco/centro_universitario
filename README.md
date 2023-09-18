@@ -9,10 +9,16 @@ Elaboração: Igor Eloi Dias Branco.
 
 ## Apresentação de protótipo e modelagem relacionado à pessoa física: alunos e professores.
 
-Segue o protótipo para aplicativo.
+Segue o protótipo para o aplicativo.
 
 Elaboração: Alexandre Nobuyuki Yamaya.
 
 ![Representação Pessoa Física](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/Copy%20of%20Prototype%20Template%20(5).PDF)
+
+## Apresentação de protótipo e modelagem relacionado à acesso da Universidade.
+
+Segue o protótipo para o aplicativo. 
+
+Elaboração: Alexandre Nobuyuki Yamaya.
 
 ![Representação Universidade](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/Prototype%20Template%20(2).PDF)
