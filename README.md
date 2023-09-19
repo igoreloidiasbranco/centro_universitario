@@ -33,3 +33,9 @@ Abaixo, segue o protótipo do aplicativo incluindo as telas de cadastro/alteraç
 ![Representação Tela Cadastro](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/tela-cadastros.jpg)
 
 Elaboração: Charles Anderson Silva de Amorim e Gabriel da Cruz Ribeiro Lopes
+
+## Modelagem relaciona a tela de login de pessoa jurídica
+Abaixo, segue o protótipo do aplicativo mostrando telas de login de pessoa jurídica
+![Representação Tela Login Pessoa Jurídica](https://github.com/igoreloidiasbranco/centro_universitario/blob/main/Tela%20de%20Login%20de%20Pessoa%20Jurida%20Aluno%20Aglermeson.jpg)
+
+Elaboração: Aglermeson Zampieri
